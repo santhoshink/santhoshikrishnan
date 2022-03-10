@@ -64,13 +64,13 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/santhoshink/santhoshikrishnan'
     content_dir: content
     branch: master
   avatar:
