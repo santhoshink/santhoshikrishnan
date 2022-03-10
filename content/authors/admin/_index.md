@@ -76,5 +76,3 @@ Along with my research, I am also quite active in mentoring younger lab members,
 
 Outside of research, I’m an avid reader(though these days the term bibliophile might be more appropriate), love to sing in non-competitive avenues, hiking, and planespotting.
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
